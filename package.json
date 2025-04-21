@@ -1,5 +1,5 @@
 {
-  "name": "my-turborepo",
+  "name": "aws-deploy-turborepo",
   "private": true,
   "scripts": {
     "build": "turbo run build",
